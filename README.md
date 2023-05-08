@@ -1,4 +1,4 @@
-#About Me:
+# About Me
 
 My name is Daria.
 
@@ -7,4 +7,4 @@ I love winter activities:
 * skiing;
 * skates.
 
-![image](https://photos.app.goo.gl/ANA2cbmHwrUQtQJb7)
+![image](/20230322_141609.jpg)
